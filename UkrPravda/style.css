@@ -11,7 +11,7 @@
 
 header{
     width: 50%;
-    margin-left: 300px;
+    margin-left: 330px;
 }
 
 nav{
@@ -30,15 +30,17 @@ nav{
     background-color: darkred;
     display: flex;
     align-items: center;
+    text-align: center;
+    justify-content: space-around;
 }
-.center-text{
-    display: flex;
-    align-items: center;
-}
+
 
 h1{
     color: white;
 }
 h6{
+    color: white;
+}
+.menu{
     color: white;
 }
