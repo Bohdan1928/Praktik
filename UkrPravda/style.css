@@ -21,7 +21,8 @@ nav{
     display: flex;
     justify-content: space-around;
     width: 100%;
-    padding-bottom: 4px;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
 
 .red-menu{
@@ -31,16 +32,30 @@ nav{
     display: flex;
     align-items: center;
     text-align: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
-
 
 h1{
     color: white;
 }
-h6{
+
+.center-text-down{
     color: white;
 }
+
 .menu{
     color: white;
+}
+
+.translate{
+    color: white;
+}
+
+.club{
+    color: white;
+    border: 3px solid white;
+    border-radius: 20px;
+    width: 80px;
+    height: 15px;
+    background-color: red;
 }
