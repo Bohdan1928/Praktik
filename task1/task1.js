@@ -67,3 +67,4 @@ let text2 = document.getElementsByClassName("text2");
 for (let i = 0; i < text2.length;i++){
     text2[i].innerText = "xbcjgevojljbj112232";
 }*/
+
